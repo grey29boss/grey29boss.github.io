@@ -30,5 +30,5 @@
 p { margin:auto;
     text-indent: 30px; /* отступы в параграфах, абзацы */
 }
-form {text-size-adjust:150%;}
+form {text-size-adjust:auto;}
 
