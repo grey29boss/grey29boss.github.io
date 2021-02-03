@@ -55,7 +55,7 @@
     /* Подчеркну*/
     text-decoration:underline;
     /* Сделаю полупрозрачным. */
-    background:#aa9999;
+    background:#ffffaa;
    /* background:#6b0c36;*/
 }
 .day_of_week li:hover ul a{ /* Поменял некоторые стили первого уровня при появлении выпадающего элемента. */
