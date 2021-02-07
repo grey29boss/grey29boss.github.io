@@ -4,9 +4,9 @@ h2 {
   font-family: Tahoma, Arial, Helvetica,sans-serif;
   text-shadow: 3px 2px 1px rgba(0,0,0,0.1);
 }
-img {
+/*img {
     width: 40%;
-}
+}*/
 .day {
   background-color: #4CAF50;
   color: white;
