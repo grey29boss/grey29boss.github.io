@@ -39,8 +39,23 @@ h2 {
   font-family: Arial, Helvetica,sans-serif;
 }
 
-.day_content a:hover {background-color: #ddd;}
+.day_content a:hover {background-color: #ddd;
+border-bottom: 2px solid;
+  border-color: grey;
+  }
+
+.school a:hover {
+  background: #3e8899;
+  border-bottom: 1px solid;
+  border-color: black;
+}
 
 .day_list:hover .day_content {display: block;}
 
 .day_list:hover .day {background-color: #3e8e41;}
+.school {
+  background-color: #3077ff;
+  
+
+}
+
