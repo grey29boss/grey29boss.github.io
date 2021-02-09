@@ -1,7 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c+Bold&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+* {
+  font-family: 'M PLUS Rounded 1c Bold', 'Nunito' ,sans-serif;}
 h2 {
-  font-family: "M PLUS Rounded 1c Bold", "Nunito" ,sans-serif;
+  font-family: 'M PLUS Rounded 1c Bold', 'Nunito' ,sans-serif;
   text-align: justify-all;
   
   text-shadow: 3px 2px 1px rgba(48,56,67,0.3);
