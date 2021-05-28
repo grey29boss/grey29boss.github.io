@@ -7,13 +7,13 @@ h2 {
   font-family: 'M PLUS Rounded 1c Bold', 'Nunito' ,sans-serif;
   text-align: justify-all;
   
-  text-shadow: 3px 2px 1px rgba(48,56,67,0.3);
+  text-shadow: 2px 2px 1px rgba(48,56,67,0.3);
 }
 /*img {
     width: 40%;
 }*/
 .day {
-  font-family: "M PLUS Rounded 1c Bold", 'Nunito' ,sans-serif;
+  font-family: 'M PLUS Rounded 1c Bold', 'Nunito' ,sans-serif;
   background-color: #44702d;
   color: #f1f6f0;
   padding: 16px;
@@ -26,18 +26,18 @@ h2 {
   position: relative;
   display: inline-block;
 
-  font-family: "M PLUS Rounded 1c Bold", 'Nunito', sans-serif;
+  font-family: 'M PLUS Rounded 1c Bold', 'Nunito', sans-serif;
 }
 
 .day_content {
   display: none;
   position: absolute;
   background-color: #f1f6f0;
-  min-width: 160px;
+  min-width: 200px;
   box-shadow: 0px 8px 16px 0px rgba(48,56,67,0.3);
   z-index: 1;
-   font-size: 12px;
-  font-family: "M PLUS Rounded 1c Bold", 'Nunito', sans-serif;
+   font-size: 14px;
+  font-family: 'M PLUS Rounded 1c Bold', 'Nunito', sans-serif;
 }
 
 .day_content a {
@@ -46,14 +46,14 @@ h2 {
   text-decoration: none;
   display: block;
   font-size: 16px;/*размер шрифта в выпадающем окне*/
-  font-family: "M PLUS Rounded 1c Bold", 'Nunito', sans-serif;
+  font-family: 'M PLUS Rounded 1c Bold', 'Nunito', sans-serif;
 }
 
 .day_content a:hover {background-color: #bcad9f;
 border-bottom: 2px solid;
   border-color: #405273;
   font-size: 16px;
-  font-family: "M PLUS Rounded 1c Bold", 'Nunito',sans-serif;
+  font-family: 'M PLUS Rounded 1c Bold', 'Nunito',sans-serif;
   }
 
 .school a:hover {
@@ -61,7 +61,7 @@ border-bottom: 2px solid;
   border-bottom: 1px solid;
   border-color: #303843;
   /*font-size: 16px;*/
-  font-family: "M PLUS Rounded 1c Bold", 'Nunito',sans-serif;
+  font-family: 'M PLUS Rounded 1c Bold', 'Nunito',sans-serif;
   box-shadow: 0px 8px 16px 0px rgba(48,56,67,0.3);
 }
 
@@ -71,7 +71,7 @@ border-bottom: 2px solid;
 .school {
   background-color: #6c81a1;
   /*font-size: 16px;*/
-  font-family: "M PLUS Rounded 1c Bold", 'Nunito', sans-serif;
+  font-family: 'M PLUS Rounded 1c Bold', 'Nunito', sans-serif;
    box-shadow: 0px 8px 16px 0px rgba(48,56,67,0.3);
   
 
