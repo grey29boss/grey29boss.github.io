@@ -1,0 +1,29 @@
+*{
+	padding: 0; /*убираем дефолтные отступы в браузерах*/
+	margin: 0;
+	box-sizing: border-box;/*border-box говорит браузеру учитывать любые границы и внутренние отступы в значениях, которые вы указываете в ширине и высоте элемента. Если вы выставите элементу ширину 100 пикселей, то эти 100 пикселей будут включать в себя границы и внутренние отступы, а контент сожмётся, чтобы выделить для них место. Обычно это упрощает работу с размерами элементов.*/
+
+	background-image: linear-gradient( to top, rgba(25,100,55, 0.5), rgba(25,100,25, 0.1)),
+	 url("img/forest-trees-fog-110485-1440x900.jpg");
+	background-size: cover;
+	background-attachment: fixed; /* закреплено в расположении */
+}
+body{
+
+	color: white;
+  padding:20px;
+  /*background-color: rgba(25,100,25, 0.5);*/
+  font-family: 'Nunito', sans-serif;
+}
+p:first-child{
+  margin-top:50px;
+
+}
+p{
+  margin: 5px;
+  padding: 5px;
+}
+audio{
+  margin: 5px;
+  padding: 5px;
+}
